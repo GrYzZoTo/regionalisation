@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="9b344b4a2bc61c6fa149fa68ea56b95c7e3c0b9a" datatype="html">
+        <source>Bienvenue</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">320</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c868b2a81568b7cd073d1b93c93e1391aab83aa8" datatype="html">
+        <source>C&apos;est un test</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">321</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ca3cd54e8d5bc40499e26cbf2e035ab9bc325514" datatype="html">
+        <source>Encore ...</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">322</context>
+        </context-group>
+      </trans-unit>
+        <trans-unit id="701174153757adf13e7c24a248c8a873ac9f5193" datatype="html">
+          <source>Angular logo</source>
+          <target>Ca fonctionne</target>
+          <context-group purpose="location">
+            <context context-type="sourcefile">src/app/app.component.html</context>
+            <context context-type="linenumber">323</context>
+          </context-group>
+        </trans-unit>
+    </body>
+  </file>
+</xliff>
